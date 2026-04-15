@@ -660,6 +660,7 @@ All exceptions are caught by `GlobalExceptionHandler` — controllers have zero 
 
 This project is licensed under the MIT License.
 
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 **Built with ❤️ by Aditya Shinde**
