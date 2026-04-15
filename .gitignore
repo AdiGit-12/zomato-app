@@ -1,0 +1,47 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.log
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+.mvn/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Application properties (remove sensitive data)
+application-prod.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# STS specific
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
